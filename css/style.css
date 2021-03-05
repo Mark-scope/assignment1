@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+}
+.nav { 
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(31, 30, 30);
+    color: blanchedalmond;
+    font-family: "Lucida Console", "Courier New", monospace;
+    padding: 10px;
+    font-weight: bold;
+  }
+#menu {
+  display: flex;
+  list-style: none;
+}
+li { margin: 10px;}
+.body {
+  display: flex;
+  padding: 15px;
+  min-height:100%;
+      background:linear-gradient(9deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(images\back.png);
+      background-size:cover;
+    }
+
+#first {
+  padding: 120px 0px 0px 0px;
+}
+button {
+  padding: 10px;
+ font-weight: bold;
+ font-family: "Lucida Console", "Courier New", monospace;
+}
+ p {
+   padding-bottom: 20px;
+ }
+ #a {
+  padding: 10px;
+ }
+ #i {
+  padding: 10px;
+}

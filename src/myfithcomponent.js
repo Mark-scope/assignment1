@@ -1,4 +1,5 @@
-export default function MyFithComponent(){
+function MyFithComponent(){
     return(
-    <h1 id='mycomp'>MyFithComponent</h1>);
+    <h1 >MyFithComponent</h1>);
 }
+export default MyFithComponent

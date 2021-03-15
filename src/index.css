@@ -9,6 +9,16 @@ body {
 
 button {
   border: none;
+  padding: 10px 15px;
+  margin: 5px;
+  border-radius: 10px 15px;
+  outline: none;
+  color: aliceblue;
+}
+.nav {
+  padding: 20px;
+  background-color: rgb(24, 135, 226);
+  color: aliceblue;
 }
 
 /* cd my-first-app(/) 

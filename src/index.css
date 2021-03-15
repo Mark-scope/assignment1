@@ -7,9 +7,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+button {
+  border: none;
 }
 
 /* cd my-first-app(/) 
@@ -22,3 +21,5 @@ git push origin assignment2 */
 /* 
 do it in App.js by importing it at the top
 */
+
+/* create react app mycomponent */
